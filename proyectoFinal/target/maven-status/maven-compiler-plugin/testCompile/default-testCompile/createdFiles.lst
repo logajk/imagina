@@ -1,0 +1,4 @@
+com\formacion\imagina\dao\producto\ProductoDAOTest.class
+com\formacion\imagina\dao\rol\RolDAOTest.class
+com\formacion\imagina\dao\mensaje\MensajeDAOTest.class
+com\formacion\imagina\dao\usuario\UsuarioDAOTest.class
